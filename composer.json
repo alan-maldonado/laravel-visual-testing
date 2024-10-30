@@ -1,5 +1,5 @@
 {
-    "name": "stechstudio/laravel-visual-testing",
+    "name": "alan-maldonado/laravel-visual-testing",
     "description": "Visual UI testing for Laravel Dusk using percy.io",
     "type": "library",
     "license": "MIT",
@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "laravel/dusk": "^6.0"
+        "laravel/dusk": "^8.2"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0",
-        "phpunit/phpunit": "^9.0"
+        "orchestra/testbench": "^9.5",
+        "phpunit/phpunit": "^11.0.1"
     },
     "autoload": {
         "psr-4": {
